@@ -1,0 +1,8 @@
+<template name="foot">
+    <view class="footerview">  
+    <text >@2020 机电随心论坛</text>
+    </view>
+    <view class="footerviewwebsite">  
+    <text style>blog.11991199.xyz</text>
+    </view>
+</template>
